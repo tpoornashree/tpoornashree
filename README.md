@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding and developing web applications 
 - 🌱 I’m currently learning and developing web applications using Reactjs and redux.
 - 💞️ I’m looking to collaborate with developers and build dynamic web apps.
-- 📫 How to reach me? You can contact me via my email id: tpoornashre@gmail.com
+- 📫 How to reach me? You can contact me via my email id: tpoornashree@gmail.com
 or my ig id: https://www.instagram.com/codeliketheresnotomorrow
 
 
