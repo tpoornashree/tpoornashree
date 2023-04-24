@@ -2,6 +2,11 @@
 - 👀 I’m interested in coding and developing web applications 
 - 🌱 I’m currently learning and developing web applications using Reactjs and redux.
 - 💞️ I’m looking to collaborate with developers and build dynamic web apps.
+- 🔭 Hugely Interested in AI/ML applications
+- 🌱 Sky is the limit.
+- 💯 Enjoy and learn from every second.
+- 😄 Goal: Become an expert in DS.
+- ⚡ Fun - Honesty - Love - Learning
 
 
 
