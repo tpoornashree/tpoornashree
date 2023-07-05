@@ -5,14 +5,16 @@
 - 🔭 Hugely Interested in AI/ML applications
 - 🌱 Sky is the limit.
 - 💯 Enjoy and learn from every second.
-- 😄 Goal: Become an expert in DS.
+- 😄 Goal: Become an expert in Data Structures.
 - ⚡ Fun - Honesty - Love - Learning
+-  https://poornashree-portfolio.netlify.app/ - my portfolio
 
 
 
 my youtube: https://www.youtube.com/channel/UCqVcyTRTo_lMkfKCIa3L5HQ
 my twitter: https://twitter.com/tpoornashree
 my fb: https://www.facebook.com/profile.php?id=100083107405022
+
 
 ### 🤟 Connect with me
 [<img src = "https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&theme=radical">](https://www.linkedin.com/in/poornashree-thirumalai-6b1b19220/)
