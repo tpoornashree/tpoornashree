@@ -11,7 +11,7 @@
 
 
 
-my youtube: https://www.youtube.com/channel/UCqVcyTRTo_lMkfKCIa3L5HQ
+
 my twitter: https://twitter.com/tpoornashree
 my fb: https://www.facebook.com/profile.php?id=100083107405022
 
