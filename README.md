@@ -14,7 +14,8 @@
 
 my twitter: https://twitter.com/tpoornashree
 my fb: https://www.facebook.com/profile.php?id=100083107405022
-
+leetcode: https://leetcode.com/poornashreethirumalai/
+oracle cloud: https://catalog-education.oracle.com/pls/certview/sharebadge?id=C8D61900C81BE48E1C7035548D72064DFE1079DBC805FFD1790AF4726C7DC7BD
 
 ### 🤟 Connect with me
 [<img src = "https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&theme=radical">](https://www.linkedin.com/in/poornashree-thirumalai-6b1b19220/)
