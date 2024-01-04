@@ -5,6 +5,7 @@
 - 🔭 Hugely Interested in AI/ML applications
 - 🌱 Sky is the limit.
 - 😄 Goal: Become an expert in Data Structures.
+- https://poornashree-portfolio.netlify.app/ - my portfolio made using ReactJS library
 - Be sure to check out my WordPress site: https://poornashreeblog.wordpress.com/
 
 
@@ -22,7 +23,7 @@ oracle cloud: https://catalog-education.oracle.com/pls/certview/sharebadge?id=C8
 
 [<img src = "https://img.shields.io/badge/mail-%23AA3225.svg?&style=for-the-badge&logo=gmail&logoColor=white&theme=radical">](mailto:tpoornashree@gmail.com)
 
--  https://poornashree-portfolio.netlify.app/ - my portfolio
+
 <!---
 tpoornashree/tpoornashree is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
