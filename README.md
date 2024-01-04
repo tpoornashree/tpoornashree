@@ -9,9 +9,7 @@
 - Be sure to check out my WordPress site: https://poornashreeblog.wordpress.com/
 
 
-
-my twitter: https://twitter.com/tpoornashree
-my fb: https://www.facebook.com/profile.php?id=100083107405022
+My figma account: (https://www.figma.com/@poornashree)
 leetcode: https://leetcode.com/poornashreethirumalai/
 oracle cloud: https://catalog-education.oracle.com/pls/certview/sharebadge?id=C8D61900C81BE48E1C7035548D72064DFE1079DBC805FFD1790AF4726C7DC7BD
 
@@ -19,7 +17,6 @@ oracle cloud: https://catalog-education.oracle.com/pls/certview/sharebadge?id=C8
 [<img src = "https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&theme=radical">](https://www.linkedin.com/in/poornashree-thirumalai-6b1b19220/)
 
 [<img src = "https://img.shields.io/badge/hackerrank-%2322DC060.svg?&style=for-the-badge&logo=hackerrank&logoColor=white&theme=radical">](https://www.hackerrank.com/TPOORNASHREE)
-My figma account: (https://www.figma.com/@poornashree)
 [<img src = "https://img.shields.io/badge/mail-%23AA3225.svg?&style=for-the-badge&logo=gmail&logoColor=white&theme=radical">](mailto:tpoornashree@gmail.com)
 
 
