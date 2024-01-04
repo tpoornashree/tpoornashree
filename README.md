@@ -19,8 +19,7 @@ oracle cloud: https://catalog-education.oracle.com/pls/certview/sharebadge?id=C8
 [<img src = "https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&theme=radical">](https://www.linkedin.com/in/poornashree-thirumalai-6b1b19220/)
 
 [<img src = "https://img.shields.io/badge/hackerrank-%2322DC060.svg?&style=for-the-badge&logo=hackerrank&logoColor=white&theme=radical">](https://www.hackerrank.com/TPOORNASHREE)
-[<img src = "https://img.shields.io/badge/instagram-%23DA2D7D.svg?&style=for-the-badge&logo=instagram&logoColor=white&theme=radical">](https://www.instagram.com/codeliketheresnotomorrow) 
-
+My figma account: (https://www.figma.com/@poornashree)
 [<img src = "https://img.shields.io/badge/mail-%23AA3225.svg?&style=for-the-badge&logo=gmail&logoColor=white&theme=radical">](mailto:tpoornashree@gmail.com)
 
 
