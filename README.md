@@ -5,8 +5,7 @@
 - 🔭 Hugely Interested in AI/ML applications
 - 🌱 Sky is the limit.
 - 😄 Goal: Become an expert in Data Structures.
-
-
+- Be sure to check out my WordPress site: https://poornashreeblog.wordpress.com/
 
 
 
