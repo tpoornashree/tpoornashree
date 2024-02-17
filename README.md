@@ -4,7 +4,6 @@
 - 💞️ I’m looking to collaborate with developers and build dynamic web apps.
 - 🔭 Hugely Interested in AI/ML applications
 - 🌱 Sky is the limit.
-- 😄 Goal: Become an expert in Data Structures.
 - https://poornashree-portfolio.netlify.app/ - my portfolio made using ReactJS library
 - Be sure to check out my WordPress site: https://poornashreeblog.wordpress.com/
 
