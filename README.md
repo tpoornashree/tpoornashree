@@ -1,9 +1,9 @@
-- 👋 Hi, I’m poornashree from MIT madras institute of tech
-- 👀 I’m interested in coding and developing web applications 
-- 🌱 I’m currently learning and developing web applications using Reactjs and redux.
+- 👋 Hey there, I’m poornashree from madras institute of tech.
+- 👀 Highly engrossed in coding and developing web applications 
+- 🌱 Currently learning and developing web applications using Reactjs and redux.
 - 💞️ I’m looking to collaborate with developers and build dynamic web apps.
 - 🔭 Hugely Interested in AI/ML applications
-- 🌱 Sky is the limit.
+- 🌱 the Sky is the limit.
 - https://poornashree-portfolio.netlify.app/ - my portfolio made using ReactJS library
 - Be sure to check out my WordPress site: https://poornashreeblog.wordpress.com/
 
