@@ -30,6 +30,17 @@ I’m Poornashree, a full-stack web developer from Madras Institute of Technolog
 </p>
 
 <br>
+## 📊 My GitHub Data:
+
+<div align="center">
+  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=tpoornashree&show_icons=true&count_private=true&theme=tokyonight" alt="Stats" />
+  <br><br>
+  <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tpoornashree&theme=tokyonight&hide=html&exclude_repo=portfolio,mit-healthcentre-website,MomConnect-360,staff-portfolio" alt="Top Languages" />
+  <br><br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tpoornashree&theme=tokyonight" alt="Streak" />
+</div>
+<br>
+
 ### 🏆 GitHub Trophies
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=tpoornashree&theme=tokyonight&column=4&row=2&margin-w=15&margin-h=15" alt="Trophies"/>
