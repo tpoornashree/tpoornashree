@@ -20,7 +20,7 @@ I’m Poornashree, a full-stack web developer from Madras Institute of Technolog
 
 
 <br>
-- https://poornashree-portfolio.netlify.app/ - my portfolio made using ReactJS library
+- My portfolio made using ReactJS library: https://poornashree-portfolio.netlify.app/ 
 <br>
 - Be sure to check out my WordPress site: https://poornashreeblog.wordpress.com/
 <br>
