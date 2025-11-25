@@ -28,9 +28,9 @@ I’m Poornashree, a full-stack web developer from Madras Institute of Technolog
 
 My figma account: (https://www.figma.com/@poornashree)
 <br>
-leetcode: https://leetcode.com/poornashreethirumalai/
+My Leetcode: https://leetcode.com/poornashreethirumalai/
 <br>
-oracle cloud: https://catalog-education.oracle.com/pls/certview/sharebadge?id=C8D61900C81BE48E1C7035548D72064DFE1079DBC805FFD1790AF4726C7DC7BD
+My Oracle Cloud Cerfication: https://catalog-education.oracle.com/pls/certview/sharebadge?id=C8D61900C81BE48E1C7035548D72064DFE1079DBC805FFD1790AF4726C7DC7BD
 <br>
 
 ### 🤟 Connect with me
