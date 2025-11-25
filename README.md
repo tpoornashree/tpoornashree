@@ -21,6 +21,21 @@ I’m Poornashree, a full-stack web developer from Madras Institute of Technolog
 
 <br>
 
+<br>
+- https://poornashree-portfolio.netlify.app/ - my portfolio made using ReactJS library
+- Be sure to check out my WordPress site: https://poornashreeblog.wordpress.com/
+
+
+My figma account: (https://www.figma.com/@poornashree)
+leetcode: https://leetcode.com/poornashreethirumalai/
+oracle cloud: https://catalog-education.oracle.com/pls/certview/sharebadge?id=C8D61900C81BE48E1C7035548D72064DFE1079DBC805FFD1790AF4726C7DC7BD
+
+### 🤟 Connect with me
+[<img src = "https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&theme=radical">](https://www.linkedin.com/in/poornashree-thirumalai-6b1b19220/)
+
+[<img src = "https://img.shields.io/badge/hackerrank-%2322DC060.svg?&style=for-the-badge&logo=hackerrank&logoColor=white&theme=radical">](https://www.hackerrank.com/TPOORNASHREE)
+<br>
+
 ## 🛠️ Technologies and Tools I use:
 
 <p align="center">
