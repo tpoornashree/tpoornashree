@@ -6,13 +6,13 @@
   </span>
 </h1>
 <p align="center">
-I'm <strong>Vijaisuria</strong>, pursing my <u>BE</u> in Computer Science Engineering at MIT, <a href="https://www.annauniv.edu/">Anna University</a> Chennai. Being a Passionate student, who loves to learn & crack new technologies and can work across with different domains.<br> A computer geek likes to explore new things and solve real-world problems.
+I'm <strong>Poornashree</strong>, pursuing my <u>BE</u> in Computer Science Engineering at MIT, <a href="https://www.annauniv.edu/">Anna University</a> Chennai. Being a Passionate student, who loves to learn & crack new technologies and can work across with different domains.<br> A computer geek likes to explore new things and solve real-world problems.
 </p>
 <p align="center"><b>Profile Views</b></p>
 <p align="center"><img src="https://profile-counter.glitch.me/vijaisuria/count.svg" alt="visitor badge"/></p>
 <br/>
 <br>
-I’m Poornashree, a full-stack web developer from Madras Institute of Technology with a strong passion for building dynamic and user-focused web applications. I am currently enhancing my skills in React.js, Redux, and modern front-end development while also working with backend technologies to create complete end-to-end solutions. I’m always excited to collaborate with other developers, explore innovative ideas, and work on projects that integrate AI and machine learning. For me, the sky is the limit, and I’m constantly driven to learn, improve, and create meaningful applications.
+A full-stack web developer from Madras Institute of Technology with a strong passion for building dynamic and user-focused web applications. I am currently enhancing my skills in React.js, Redux, and modern front-end development while also working with backend technologies to create complete end-to-end solutions. I’m always excited to collaborate with other developers, explore innovative ideas, and work on projects that integrate AI and machine learning. For me, the sky is the limit, and I’m constantly driven to learn, improve, and create meaningful applications.
 
 <br>
 <img src="./coding.gif" height="290px" align="right" />
