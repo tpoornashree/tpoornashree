@@ -17,12 +17,23 @@
 - ⚡ Fun fact: I code, therefore I am caffeinated :coffee:.
 
 <br>
-- 👋 I’m poornashree from madras institute of tech.
-- 👀 Highly engrossed in coding and developing web applications 
-- 🌱 Currently learning and developing web applications using Reactjs and redux.
-- 💞️ I’m looking to collaborate with developers and build dynamic web apps.
-- 🔭 Hugely Interested in AI/ML applications
-- 🌱 the Sky is the limit.
+I’m Poornashree, a full-stack web developer from Madras Institute of Technology with a strong passion for building dynamic and user-focused web applications. I am currently enhancing my skills in React.js, Redux, and modern front-end development while also working with backend technologies to create complete end-to-end solutions. I’m always excited to collaborate with other developers, explore innovative ideas, and work on projects that integrate AI and machine learning. For me, the sky is the limit, and I’m constantly driven to learn, improve, and create meaningful applications.
+
+<br>
+
+## 🛠️ Technologies and Tools I use:
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,nextjs,flutter,html,css,sass,tailwind,bootstrap,jquery,vite,mongodb,mysql,sqlite,expressjs,nodejs,php,flask,redux,laravel,spring,c,cpp,java,python,js,ts,bash,latex,md,linux,git,github,githubactions,gcp,figma,wordpress,vscode,idea,androidstudio,postman&perline=10" />
+  </a>
+</p>
+
+<br>
+### 🏆 GitHub Trophies
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=vijaisuria&theme=tokyonight&column=4&row=2&margin-w=15&margin-h=15" alt="Trophies"/>
+</div>
 - https://poornashree-portfolio.netlify.app/ - my portfolio made using ReactJS library
 - Be sure to check out my WordPress site: https://poornashreeblog.wordpress.com/
 
