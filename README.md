@@ -30,6 +30,25 @@ I’m Poornashree, a full-stack web developer from Madras Institute of Technolog
 </p>
 
 <br>
+
+
+<br>
+
+## ❤️ Let's get connected:
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/poornashree-t-6b1b19220/" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"  height="30px"/>
+  </a> 
+  <a href="https://github.com/tpoornashree" target="_blank">
+    <img alt="Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"  height="30px"/>
+  </a> 
+  <a href="mailto:tpoornashree@gmail.com" target="_blank">
+    <img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"  height="30px"/>
+  </a>
+</p>
+
+<br>
 ## 📊 My GitHub Data:
 
 <div align="center">
@@ -59,7 +78,7 @@ oracle cloud: https://catalog-education.oracle.com/pls/certview/sharebadge?id=C8
 [<img src = "https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&theme=radical">](https://www.linkedin.com/in/poornashree-thirumalai-6b1b19220/)
 
 [<img src = "https://img.shields.io/badge/hackerrank-%2322DC060.svg?&style=for-the-badge&logo=hackerrank&logoColor=white&theme=radical">](https://www.hackerrank.com/TPOORNASHREE)
-[<img src = "https://img.shields.io/badge/mail-%23AA3225.svg?&style=for-the-badge&logo=gmail&logoColor=white&theme=radical">](mailto:tpoornashree@gmail.com)
+
 
 
 <!---
