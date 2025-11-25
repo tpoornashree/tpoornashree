@@ -32,8 +32,10 @@ I’m Poornashree, a full-stack web developer from Madras Institute of Technolog
 <br>
 ### 🏆 GitHub Trophies
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vijaisuria&theme=tokyonight&column=4&row=2&margin-w=15&margin-h=15" alt="Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=tpoornashree&theme=tokyonight&column=4&row=2&margin-w=15&margin-h=15" alt="Trophies"/>
 </div>
+
+<br>
 - https://poornashree-portfolio.netlify.app/ - my portfolio made using ReactJS library
 - Be sure to check out my WordPress site: https://poornashreeblog.wordpress.com/
 
