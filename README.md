@@ -1,4 +1,23 @@
-- 👋 Hey there, I’m poornashree from madras institute of tech.
+<img src="./coding.gif" height="290px" align="right" />
+
+- 🙋‍♂️ All about me is at **[My Website](https://poornashree-portfolio.netlify.app/)**
+
+- 🔭 I’m currently working on `Something Intresting`.
+
+- 🌱 I’m currently learning `Machine Learning`
+
+- 👯 I’m looking to collaborate for `Dev Projects`
+
+- 🤔 I’m looking for help with `Competitive Programming`
+
+- 💬 Ask me about anything, except Electronics :sweat_smile:
+
+- 👨‍💻 Life Hack: Learn new tech :fire: and share what you have learned :tada:
+
+- ⚡ Fun fact: I code, therefore I am caffeinated :coffee:.
+
+<br>
+- 👋 I’m poornashree from madras institute of tech.
 - 👀 Highly engrossed in coding and developing web applications 
 - 🌱 Currently learning and developing web applications using Reactjs and redux.
 - 💞️ I’m looking to collaborate with developers and build dynamic web apps.
