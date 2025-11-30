@@ -18,7 +18,7 @@ A full-stack web developer from Madras Institute of Technology with a strong pas
 
 - 🙋‍♂️ All about me is at **[My Website](https://poornashree-portfolio.netlify.app/)**
 
-- 🔭 I’m currently working on `Something Intresting`.
+- 🔭 I’m currently working on `ServiceNow Platform`.
 
 - 🌱 I’m currently learning `Machine Learning`
 
@@ -28,7 +28,7 @@ A full-stack web developer from Madras Institute of Technology with a strong pas
 
 - 👨‍💻 Life Hack: Learn new tech :fire: and share what you have learned :tada:
 
-- ⚡ Fun fact: I code, therefore I am caffeinated :coffee:.
+
 
 
 <br>
