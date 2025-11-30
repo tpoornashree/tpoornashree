@@ -6,7 +6,7 @@
   </span>
 </h1>
 <p align="center">
-I'm <strong>Poornashree</strong>, pursuing my <u>BE</u> in Computer Science Engineering at MIT, <a href="https://www.annauniv.edu/">Anna University</a> Chennai. Being a Passionate student, who loves to learn & crack new technologies and can work across with different domains.<br> A computer geek likes to explore new things and solve real-world problems.
+I'm <strong>Poornashree</strong>,<u>BE</u> Computer Science Engineering Graduate at MIT, <a href="https://www.annauniv.edu/">Anna University</a> Chennai. Being a Passionate student, who loves to learn & crack new technologies and can work across with different domains.<br> A computer geek likes to explore new things and solve real-world problems.
 </p>
 
 <br/>
