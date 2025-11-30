@@ -1,6 +1,6 @@
 
 <h1 align="center">
-  Hi There!
+  Hey There!
   <span role="img" aria-labelledby="wave">
     👋🏻
   </span>
